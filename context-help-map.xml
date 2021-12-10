@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="untitled5" path="topics/Backgammon.html"/>
+   <appContext helpID="untitled10" path="topics/Before%20Beginning%20the%20Game.html"/>
+   <appContext helpID="untitled2" path="topics/Required%20Game%20Pieces.html"/>
+   <appContext helpID="untitled3" path="topics/Setting%20up%20the%20Game.html"/>
+   <appContext helpID="first_player_0" path="topics/First%20Roll.html"/>
+   <appContext helpID="untitled6" path="topics/Playing%20the%20Game.html"/>
+   <appContext helpID="untitled3" path="topics/Types%20of%20Rolls.html"/>
+   <appContext helpID="untitled7" path="topics/Capture.html"/>
+   <appContext helpID="bearing_off_and_ending_the_game"
+               path="topics/Bearing%20Off.html"/>
+   <appContext helpID="untitled8" path="topics/Points.html"/>
+   <appContext helpID="untitled9" path="topics/Acey-Deucey.html"/>
+</map>

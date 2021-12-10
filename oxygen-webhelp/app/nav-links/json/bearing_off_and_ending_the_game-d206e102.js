@@ -1,0 +1,1 @@
+define({"topics":[{"title":"Points","shortdesc":"<p class=\"shortdesc\">Game Point Values<\/p>","href":"topics\/Points.html","attributes":{"data-id":"untitled8"},"menu":{"hasChildren":false},"tocID":"untitled8-d206e113","topics":[]}]});
